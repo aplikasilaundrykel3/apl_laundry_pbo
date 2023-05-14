@@ -1,0 +1,43 @@
+
+                    LAPORAN TRANSAKSI
+
+  id_trid_ou kode_id_me tgl  batas tgl_bstatu dibayid_us
+  0    1     01   111   3/9/23/16/ 3/10/baru  dibay1213
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  3/10/23 11:06 AM                         Page 1 of 1
+
+
